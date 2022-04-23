@@ -10,7 +10,8 @@
   "author": "Noemi Romano",
   "license": "ISC",
   "dependencies": {
-    "d3": "^7.3.0"
+    "d3": "^7.3.0",
+    "geojson": "^0.5.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.17.6",
